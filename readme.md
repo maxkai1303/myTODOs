@@ -45,6 +45,7 @@ Changes to be committed:
     new file:   REDEME.html
 
 ### maxkai@MaxdeMacBook-Pro myTODOs % git commit -m "first"
+###### 這裡要記得一定要順便-m"message"
 [master 9a5edfc] first
  1 file changed, 2 insertions(+)
  create mode 100644 REDEME.html
